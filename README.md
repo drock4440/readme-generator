@@ -33,4 +33,6 @@ This application is covered by the Open license.
   
 Check out how it works here: 
 
-![Follow](https://drive.google.com/file/d/1i3OBZIQKpYOo02a8D5V62J807MuV-ffx/view)
+![Example](gif-example.gif)
+
+If everything was installed and cloned, your finished READme will be located in the final-product folder in your code editor. 
