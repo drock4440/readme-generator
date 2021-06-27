@@ -1,3 +1,4 @@
+// This function grabs the answers from the command line and inputs them into the READme using the ${.} formmat.
 function generateReadme(answers) {
   return `
 <h1 align="center">${answers.projectTitle} 👋</h1>
@@ -33,5 +34,6 @@ This application is covered by the ${answers.license} license.
 ✉️ Email me with any questions: ${answers.email}<br /><br />
   `;
 }
+// this tells node to allow this file to use the answers given
 
 module.exports = generateReadme;

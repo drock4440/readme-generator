@@ -1,4 +1,3 @@
-
 <h1 align="center">READme Generator 👋</h1>
 
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
@@ -22,7 +21,7 @@
 This application is covered by the Open license. 
 ## Contributing
 👪 
-## Troubleshooting
+## Tests
 ✏️ 
 ## Questions
 ✋ Email is the preferred method of contacting me if you have any questions.<br />

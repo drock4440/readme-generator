@@ -1,10 +1,13 @@
 // TODO: Include packages needed for this application
+// fs, inquirer, until were the three dependencies used for this project.
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
+// this links this js file to the final markdown file
 const generateMarkdown = require('./utils/generateMarkdown.js')
 const writeFileAsync = util.promisify(fs.writeFile);
 // TODO: Create an array of questions for user input
+// this is my array of questions that the user will fill out in the command line to create the READme
 function promptUser() {
     return inquirer.prompt([
 
@@ -77,10 +80,7 @@ function promptUser() {
     ])
 }
 
-// TODO: Create a function to write README file
-
-
-// TODO: Create a function to initialize app
+// this will send the answers from the command line over to the final-product READme
 async function init() {
     try{    
         const answers = await promptUser();
