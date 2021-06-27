@@ -33,4 +33,4 @@ This application is covered by the Open license.
   
 Check out how it works here: 
 
-![Follow](index.html)
+![Follow](https://drive.google.com/file/d/1i3OBZIQKpYOo02a8D5V62J807MuV-ffx/view)
