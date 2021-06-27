@@ -1,9 +1,9 @@
 
-<h1 align="center">READme Generator 👋</h1>
+<h1 align="center">Waifu Said 👋</h1>
 
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
-🔍 You can create READme files from the command line by answering the prompts.
+🔍 Access photos of Waifus and get a corresponding quote to go along with it.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,21 +13,21 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 Simply fork this repository, clone it to your local device, and then run nmp intall to get all of the dependencies needed. 
+💾 No installation necessary for this file.
 ## Usage
-💻 Rather than typing out a READme file everytime you have a project or an assignment, just use READme Generator and save your fingers some typing.
+💻 If you are bored/lonely chat with your favorite waifus.
 ## License
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
 This application is covered by the Open license. 
 ## Contributing
-👪 
+👪 Adam Mielcarek, Leigh Johnson, and Abdalla Khalil
 ## Troubleshooting
 ✏️ 
 ## Questions
-✋ Email is the preferred method of contacting me if you have any questions.<br />
+✋ Email is the best way to reach me with questions.<br />
 <br />
-:octocat: Find me on GitHub: [drock4440](https://github.com/drock4440)<br />
+:octocat: Find me on GitHub: [Drock4440](https://github.com/Drock4440)<br />
 <br />
 ✉️ Email me with any questions: Daltonrothrock8@gmail.com<br /><br />
   
